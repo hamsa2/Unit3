@@ -33,8 +33,4 @@ public class CashBackUnit2Test {
 
         assertEquals(actual, expected);
     }
-
-    @Test
-    public void checkCash4() {
-    }
 }
